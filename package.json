@@ -1,0 +1,26 @@
+{
+  "name": "ManuelCastiblanco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.1",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dragnellm/ManuelCastiblanco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dragnellm/ManuelCastiblanco/issues"
+  },
+  "homepage": "https://github.com/Dragnellm/ManuelCastiblanco#readme"
+}
